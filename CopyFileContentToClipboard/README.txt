@@ -1,6 +1,6 @@
 CopyFileContentToClipboard
 
-Copyright (C) 2007 Rik Hemsley <rik@rikkus.info>
+Copyright (C) 2007-2010 Rik Hemsley <rik@hemsley.cc>
 
 Based on a sample application written by Ralph Arvesen:
 http://www.codeproject.com/csharp/SimpleContextMenu.asp
