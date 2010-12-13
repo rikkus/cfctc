@@ -1,0 +1,2 @@
+To install the program, simply run it.
+To uninstall the program, run it with the command line argument '-unregister'.
